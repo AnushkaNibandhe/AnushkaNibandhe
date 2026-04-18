@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,12 +35,9 @@
 
 ---
 
-### 🧩 Profiles
-
+### Profiles
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushka-nibandhe/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anushka_Nibandhe/)
 
----
 
-### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushka-nibandhe/)

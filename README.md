@@ -1,9 +1,7 @@
 # Hi, I'm Anushka Nibandhe 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=AnushkaNibandhe&color=blueviolet)
-
 > Information Technology Sophomore at Vishwakarma Institute of Technology | AI • Data • Web | Creative Technology Enthusiast | 
-> *Building things that work, and occasionally things that look like they do.*
+> *Building things that work*
 
 ---
 
@@ -13,7 +11,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Web & Databases:**
@@ -25,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Data & AI:**
+**Data & ML:**
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)

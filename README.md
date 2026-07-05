@@ -1,7 +1,7 @@
 # Hi, I'm Anushka Nibandhe 👋
 
 > Information Technology Sophomore at Vishwakarma Institute of Technology | AI • Data • Web | Creative Technology Enthusiast | 
-> *Building things that work*
+> *Building things that matter*
 
 ---
 
